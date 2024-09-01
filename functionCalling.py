@@ -111,7 +111,6 @@ def fetch_emergency_action(emergency, cause=None):
         match_score = match['score']
 
     action = records.find_one({'emergency_type': match_id})["action"]
-    print("ACTION: ", action)
     return action
 
 def store_user_message(message):

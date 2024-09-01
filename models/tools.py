@@ -43,13 +43,13 @@ tools = [
         "type": "function",
         "function": {
             "name": "fetch_user_location",
-            "description": "Obtain the user's location to provide an estimated time of arrival for assistance.",
+            "description": "Obtain the user's location to provide an estimated time of arrival for assistance be it nearby location or the exact location provided. Only call this function when there is an explicit location.",
             "parameters": {
                 "type": "object",
                 "properties": {
                     "location": {
                         "type": "string",
-                        "description": "The specific location where the incident occurred, e.g., 'park in the Bay Area, San Francisco'."
+                        "description": "The specific location where the incident occurred, e.g., 'park in the Bay Area, San Francisco' or 'Kolkata, India'."
                     }
                 },
                 "required": ["location"],
