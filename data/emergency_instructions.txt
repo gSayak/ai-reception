@@ -1,0 +1,51 @@
+# Emergency: Patient Not Breathing
+If the patient is not breathing, you should immediately perform CPR (Cardiopulmonary Resuscitation). 
+Steps to perform CPR:
+1. Place the heel of your hand on the center of the patient’s chest.
+2. Place your other hand on top of the first hand, interlocking your fingers.
+3. Push hard and fast in the center of the chest at a rate of 100-120 compressions per minute.
+4. After every 30 compressions, give 2 rescue breaths:
+   - Tilt the patient’s head back slightly to open the airway.
+   - Pinch the nose shut and make a complete seal over the patient’s mouth with yours.
+   - Blow into the mouth to make the chest rise.
+   - Repeat.
+
+# Emergency: Severe Bleeding
+If the patient is bleeding severely:
+1. Apply direct pressure to the wound using a clean cloth or bandage.
+2. Keep applying pressure until the bleeding stops.
+3. If the bleeding does not stop, do not remove the cloth. Add more layers and continue pressing.
+4. Elevate the injured area above the level of the heart if possible.
+5. Keep the patient calm and still until help arrives.
+
+# Emergency: Choking
+If the patient is choking:
+1. Ask the patient if they can speak or cough.
+2. If they cannot speak, perform the Heimlich maneuver:
+   - Stand behind the patient.
+   - Wrap your arms around their waist.
+   - Make a fist with one hand and place it slightly above the navel.
+   - Grasp the fist with the other hand and press into the abdomen with a quick, upward thrust.
+   - Repeat until the object is expelled.
+
+# Emergency: Heart Attack
+If the patient is experiencing a heart attack:
+1. Have the patient sit down, rest, and try to stay calm.
+2. Loosen any tight clothing.
+3. If the patient has been prescribed nitroglycerin, help them take it.
+4. If the patient loses consciousness, begin CPR if the patient stops breathing.
+5. Monitor the patient and be prepared to use an Automated External Defibrillator (AED) if available.
+
+# Emergency: Allergic Reaction
+If the patient is having an allergic reaction:
+1. Identify if the patient has an EpiPen (epinephrine auto-injector) and assist in administering it.
+2. If the patient is not breathing, perform CPR.
+3. Keep the patient calm and in a comfortable position.
+4. Monitor the patient’s condition and be prepared to provide further assistance.
+
+# Emergency: Burn Injury
+If the patient has suffered a burn injury:
+1. Cool the burn by running cool (not cold) water over the area for 10-20 minutes.
+2. Cover the burn with a sterile, non-adhesive bandage or clean cloth.
+3. Do not apply creams, ointments, or ice directly to the burn.
+4. Keep the patient warm and monitor for signs of shock.
