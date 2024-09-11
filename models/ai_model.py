@@ -9,14 +9,8 @@ MESSAGES_HISTORY = [{"role": "system", "content": "You are a emergency services 
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-def ask_and_reply(prompt, history):
+def ask_and_reply(prompt):
     """Give LLM a given prompt and get an answer."""
-
-    # messages = [{"role": "system", "content": "You are a emergency services helper who will ask the user if they have a message to send or is there an emergency. If the user replies that they have a message to send. Ask the user for what message do they need to send. Once they say the message we need to call the store_user_message function and let the user know their message has been sent to Dr. Adrin. If they have an emergency ask them what is the emergency that they are facing. Be helpful and empathetic. If the user has mentioned an emergency, the model will call the function fetch_emergency_action to provide immediate actions that should be taken during an emergency until professional medical help arrives. Keep them engaged and tell them help is on the way.Call the fetch_user_location function only if the user has explicitly given his location and provide an estimated time of arrival for assistance and tell help is on the way. If they tell anything unrelated to emergency or message, the model will ask them to provide a message or emergency only or answer with I am not aware of that and its unrelated as you are a emergency services assistant. "}]
-    # for pair in history:
-    #     user_input, bot_response = pair
-    #     messages.append({"role": "user", "content": user_input})
-    #     messages.append({"role": "assistant", "content": bot_response})
     
     MESSAGES_HISTORY.append({"role": "user", "content": prompt})
 
