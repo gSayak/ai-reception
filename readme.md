@@ -80,7 +80,7 @@ Follow these steps to set up and run the project:
    ```bash
    pip install -r requirements.txt
    ```
-    This step guides users to install all necessary dependencies listed in the `requirements.txt` file. You can include this in your `README.md` under the installation section.
+
 4. **Set up environment variables**:
 
    Create a `.env` file in the root directory of your project and add the following:
@@ -90,7 +90,7 @@ Follow these steps to set up and run the project:
    PINECONE_DB=your_pinecone_key
    MONGO_DB_URI=your_mongo_uri
     ```
-    This step explains how to configure the necessary environment variables to connect to the OpenAI API, Pinecone database, and MongoDB.
+    
 5. **Set up Pinecone Database**:
 
    Ensure that your Pinecone index is set up and ready for use. The index should store vectorized representations of emergency actions.
@@ -123,4 +123,3 @@ Follow these steps to set up and run the project:
 	- Interact with the chatbot by typing in messages, reporting emergencies, or asking for assistance.
 
 The application will handle user inputs, provide emergency instructions, and store messages in the MongoDB database.
-This step explains how to run the application and start the Gradio interface, allowing users to interact with the chatbot.
